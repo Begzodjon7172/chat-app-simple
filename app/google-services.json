@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "138210914502",
+    "project_id": "chatapplication-85622",
+    "storage_bucket": "chatapplication-85622.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138210914502:android:a2bc90eff6568a4df2a7c7",
+        "android_client_info": {
+          "package_name": "uz.bnabiyev.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVjfNHRsBRxDB6QIhwJot8l6KsA_9FEK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
